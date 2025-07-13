@@ -1,0 +1,11 @@
+a = input("Enter number 1: ")
+b = input("Enter number 2: ")
+print("Number a is: ", a)
+print("Number b is: ", b)
+print("sum of a + b is ",a+b)
+#yha sum string ke form me add ho rha h isiliye hum int ka use karenge
+a = int(input("Enter number 1: "))
+b = int(input("Enter number 2: "))
+print("Number a is: ", a)
+print("Number b is: ", b)
+print("sum of a + b is ",a+b)
